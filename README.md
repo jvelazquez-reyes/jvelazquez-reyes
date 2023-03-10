@@ -22,7 +22,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvelazquez-reyes)](https://github.com/anuraghazra/github-readme-stats)
 
-![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=jvelazquez-reyes&count_private=true&show_icons=true&hide_border=true)
+![Juan's github stats](https://github-readme-stats.vercel.app/api?username=jvelazquez-reyes&count_private=true&show_icons=true&hide_border=true)
 
 <!--
 **jvelazquez-reyes/jvelazquez-reyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
