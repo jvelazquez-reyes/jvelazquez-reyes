@@ -20,7 +20,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvelazquez-reyes&hide=tex,jupyter%20notebook,r&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvelazquez-reyes&hide=tex,jupyter%20notebook,r,smarty&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Juan's github stats](https://github-readme-stats.vercel.app/api?username=jvelazquez-reyes&count_private=true&show_icons=true&hide_border=true)
 
